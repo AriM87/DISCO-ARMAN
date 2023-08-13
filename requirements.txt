@@ -2,6 +2,7 @@ asgiref==3.7.2
 Django==4.2.4
 django-appconf==1.0.5
 django-imagekit==4.1.0
+django-rest-framework-nested==0.0.1
 djangorestframework==3.14.0
 drf-nested-routers==0.93.4
 pilkit==2.0
